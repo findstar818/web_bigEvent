@@ -21,6 +21,9 @@ iframe {
     overflow: hidden;
 }
 
+a{
+    transition:none !important;
+}
 .userinfo {
     height: 60px;
     line-height: 60px;

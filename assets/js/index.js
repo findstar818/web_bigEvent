@@ -33,7 +33,7 @@ function getUserInfo() {
             renderAvatar(res.data)
         },
         //不论成功还是失败 最后都会调用 complete 函数
-       
+
     })
 }
 //渲染用户头像
